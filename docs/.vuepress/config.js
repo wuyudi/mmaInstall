@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Mathematica 激活指南",
-  description: "Mathematica 的安装、激活、入门、常见问题",
+  base: "/mmaInstall/",
   themeConfig: {
     collapsable: true,
     sidebar: "auto",
     sidebarDepth: 2,
+    repo: "wuyudi/mmaInstall",
     editLinks: true,
     sidebar: [
       {
