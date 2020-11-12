@@ -1,0 +1,14 @@
+{
+  "name": "mmainstall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wuyudi <wuyudi119@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
